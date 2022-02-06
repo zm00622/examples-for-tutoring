@@ -95,6 +95,10 @@ https://codepen.io/RiseOverLimits/pen/yLboKBM
 &nbsp;
 &nbsp;
 
+### React - Functional Component
+
+https://codesandbox.io/s/react-functional-component-q0r3w?file=/src/index.js
+
 ### React - useState Lesson 1
 
 https://codesandbox.io/s/usestate-lesson-1-eiqpc
@@ -103,7 +107,7 @@ https://codesandbox.io/s/usestate-lesson-1-eiqpc
 
 https://codesandbox.io/s/usestate-lesson-3-e28e5
 
-### React Random User Cards (Map Array of Objects from Random User API)
+### React - Random User Cards (Map Array of Objects from Random User API)
 
 https://stackblitz.com/edit/react-rzkmfj
 
