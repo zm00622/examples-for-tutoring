@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.box{
+    margin: 10px;
+    height: 250px;
+    background-color: #fff;
+}
+
+.wholeCard {
+  background-color: #50B587;
+}
+
+.individualCard {
+  background-color: #329C6C;
+  margin: 20px 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 20px;
+}
+
+.flexboxCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
+  background-color: #D9F8EA;
+}
