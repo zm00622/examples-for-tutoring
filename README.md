@@ -127,6 +127,10 @@ https://stackblitz.com/edit/react-rzkmfj
 
 https://getbutterfly.com/javascript/
 
+### Head First JavaScript
+
+https://github.com/MarkPThomas/HeadFirst-JavaScript
+
 &nbsp;
 &nbsp;
 
