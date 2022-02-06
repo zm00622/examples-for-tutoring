@@ -21,6 +21,10 @@ https://codepen.io/RiseOverLimits/pen/NWWWvNZ
 
 https://codepen.io/RiseOverLimits/pen/KKKPQpX
 
+### Using Methods to Do Things You Couldn't Otherwise Do
+
+https://codepen.io/RiseOverLimits/pen/YzEpeze
+
 &nbsp;
 &nbsp;
 
