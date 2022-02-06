@@ -54,6 +54,10 @@ https://codepen.io/RiseOverLimits/pen/RwpzYrb
 
 https://codepen.io/RiseOverLimits/pen/VwpRVKJ
 
+### How to Show or Hide HTML on a Click Event
+
+https://codepen.io/RiseOverLimits/pen/ExbNQXX
+
 &nbsp;
 &nbsp;
 
