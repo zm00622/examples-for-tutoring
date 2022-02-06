@@ -1,29 +1,24 @@
 # JavaScript Examples For Tutoring
 
 
-### How to use Callbacks
+## Level One
 
-https://codepen.io/RiseOverLimits/pen/MWmvVjE
 
-### How to use Closures
+### Calculate Two Fields with Conditions
 
-https://codepen.io/RiseOverLimits/pen/yLboKBM
+https://codepen.io/RiseOverLimits/pen/WNNNXWm
 
-### How to Filter an Array of Objects
+### Calculate Two Fields without Conditions
 
-https://codepen.io/RiseOverLimits/pen/yLowpzL
+https://codepen.io/RiseOverLimits/pen/NWWWvNZ
 
-### How to Map through an Array of Objects
+### Display Input Box Value On Enter
 
-https://codepen.io/RiseOverLimits/pen/WNjMyQZ
+https://codepen.io/RiseOverLimits/pen/KKKPQpX
 
-### How to pull from a local JSON file
 
-https://codepen.io/RiseOverLimits/pen/JjNEodM
+## Level Two
 
-### How to pull from a remote JSON file
-
-https://codepen.io/RiseOverLimits/pen/JjNEjVy
 
 ### Responsive Conventions
 
@@ -45,14 +40,42 @@ https://codepen.io/RiseOverLimits/pen/RwpzYrb
 
 https://codepen.io/RiseOverLimits/pen/VwpRVKJ
 
-### Calculate Two Fields with Conditions
 
-https://codepen.io/RiseOverLimits/pen/WNNNXWm
+## Level Three
 
-### Calculate Two Fields without Conditions
 
-https://codepen.io/RiseOverLimits/pen/NWWWvNZ
+### How to pull from a local JSON file
 
-### Display Input Box Value On Enter
+https://codepen.io/RiseOverLimits/pen/JjNEodM
 
-https://codepen.io/RiseOverLimits/pen/KKKPQpX
+### How to pull from a remote JSON file
+
+https://codepen.io/RiseOverLimits/pen/JjNEjVy
+
+### How to Filter an Array of Objects
+
+https://codepen.io/RiseOverLimits/pen/yLowpzL
+
+### How to Map through an Array of Objects
+
+https://codepen.io/RiseOverLimits/pen/WNjMyQZ
+
+### How to use Callbacks
+
+https://codepen.io/RiseOverLimits/pen/MWmvVjE
+
+### How to use Closures
+
+https://codepen.io/RiseOverLimits/pen/yLboKBM
+
+
+
+
+
+
+
+
+
+
+
+
