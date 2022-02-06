@@ -131,6 +131,8 @@ https://getbutterfly.com/javascript/
 
 https://github.com/MarkPThomas/HeadFirst-JavaScript
 
+https://wickedlysmart.com/hfjs/
+
 &nbsp;
 &nbsp;
 
