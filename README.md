@@ -1,4 +1,4 @@
-# examples-for-tutoring
+# Examples For Tutoring
 Code examples for tutoring
 
 ## How to use Callbacks
