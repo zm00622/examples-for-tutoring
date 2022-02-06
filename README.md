@@ -1,5 +1,7 @@
 # JavaScript Examples For Tutoring
 
+&nbsp;
+&nbsp;
 
 > ## Level One 
 
@@ -43,8 +45,13 @@ https://codepen.io/RiseOverLimits/pen/RwpzYrb
 
 https://codepen.io/RiseOverLimits/pen/VwpRVKJ
 
+&nbsp;
+&nbsp;
 
 > ## Level Three
+
+&nbsp;
+&nbsp;
 
 
 ### How to pull from a local JSON file
