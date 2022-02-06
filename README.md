@@ -21,7 +21,7 @@ https://codepen.io/RiseOverLimits/pen/NWWWvNZ
 
 https://codepen.io/RiseOverLimits/pen/KKKPQpX
 
-### Using Methods to Do Things You Couldn't Otherwise Do
+### Get the Current Date (An Intro to Methods)
 
 https://codepen.io/RiseOverLimits/pen/YzEpeze
 
