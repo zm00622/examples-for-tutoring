@@ -115,11 +115,29 @@ https://codesandbox.io/s/usestate-lesson-3-e28e5
 
 https://stackblitz.com/edit/react-rzkmfj
 
+&nbsp;
+&nbsp;
 
+> ## Other Resources for Code Snippets
 
+&nbsp;
+&nbsp;
 
+### GetButterfly.com 
 
+https://getbutterfly.com/javascript/
 
+&nbsp;
+&nbsp;
+
+> ## Other Code Snippets
+
+&nbsp;
+&nbsp;
+
+### JavaScript Centered Pop Up Window
+
+https://codepen.io/RiseOverLimits/pen/wvPoyyV
 
 
 
