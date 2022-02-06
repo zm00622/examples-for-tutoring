@@ -95,6 +95,14 @@ https://codepen.io/RiseOverLimits/pen/yLboKBM
 &nbsp;
 &nbsp;
 
+### React - useState Lesson 1
+
+https://codesandbox.io/s/usestate-lesson-1-eiqpc
+
+### React - useState Lesson 2
+
+https://codesandbox.io/s/usestate-lesson-3-e28e5
+
 ### React Random User Cards (Map Array of Objects from Random User API)
 
 https://stackblitz.com/edit/react-rzkmfj
