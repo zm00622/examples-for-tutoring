@@ -38,15 +38,15 @@ https://codepen.io/RiseOverLimits/pen/YzEpeze
 
 https://codepen.io/RiseOverLimits/pen/qBjovbp
 
-### How to use CSS Grid
+### How to use CSS Grid 1
 
 https://codepen.io/RiseOverLimits/pen/BaZKrgV
 
-### How to use CSS Grid
+### How to use CSS Grid 2
 
 https://codepen.io/RiseOverLimits/pen/gORrabg
 
-### How to use CSS Grid
+### How to use CSS Grid 3
 
 https://stackoverflow.com/questions/45536537/centering-in-css-grid
 
