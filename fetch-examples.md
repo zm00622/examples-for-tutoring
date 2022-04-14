@@ -97,3 +97,7 @@ export function useFetch(uri) {
  
  
  ```
+
+# Links for tutorials on Fetch
+
+https://www.javascripttutorial.net/javascript-fetch-api/
