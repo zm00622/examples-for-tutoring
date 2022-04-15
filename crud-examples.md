@@ -50,3 +50,35 @@ function addElement () {
 </html>
 
 ```
+
+```
+
+
+<body>
+<ul id="app">
+    <li>JavaScript</li>
+</ul>
+  
+  
+  <script>
+  
+let app = document.querySelector('#app');
+
+let langs = ['TypeScript','HTML','CSS'];
+
+let nodes = langs.map(lang => {
+    let li = document.createElement('li');
+    li.textContent = lang;
+    return li;
+});
+
+app.append(...nodes);
+  
+  
+  </script>
+  
+  
+</body>
+
+
+```
