@@ -1,5 +1,5 @@
 
-## Create / Add Element Snippet
+## Create / Add Element - JavaScript Snippets
 
 ```
 
@@ -80,5 +80,17 @@ app.append(...nodes);
   
 </body>
 
+
+```
+
+## Delete / Remove Element - JavaScript Snippets
+
+```
+
+```
+
+## Edit / Modify Element - JavaScript Snippets
+
+```
 
 ```
