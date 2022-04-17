@@ -136,6 +136,17 @@ $(document).ready(function(){
 
 ```
 
+```
+
+jQuery example
+
+$(".test").hide() - hides all elements with class="test".
+
+$("#test").hide() - hides the element with id="test".
+
+
+```
+
 ## Edit / Modify Element - JavaScript Snippets
 
 ```
